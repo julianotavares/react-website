@@ -15,7 +15,7 @@ export const Navbar = () => {
           </MobileIcon>
           <NavMenu>
             <NavItem>
-              <NavLinks to="about">About us</NavLinks>
+              <NavLinks to="about">About!</NavLinks>
             </NavItem>
           </NavMenu>
         </NavbarContainer>
